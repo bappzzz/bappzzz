@@ -1,4 +1,15 @@
-## Hi there 👋
+# Hi, I'm Rashin (bappzzz) 👋
+
+Diploma in Artificial Intelligence & Machine Learning.
+
+### 🔭 What I'm working on
+- **Jarvis** — a Python voice assistant with speech recognition and command handling
+
+### 🛠️ Tech I use
+Python · Machine Learning · Speech Recognition · Computer Vision
+
+### 📫 Reach me
+- Email: rashin140605@gmail.com
 
 <!--
 **bappzzz/bappzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
